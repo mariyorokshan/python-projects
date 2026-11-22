@@ -10,7 +10,7 @@ def dollars_to_float(d):
 
 def percent_to_float(p):
     p = (p.replace("%"," "))
-    p = int(p)/100
+    return int(p)/100
 
 
 main()
