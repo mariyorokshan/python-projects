@@ -1,2 +1,4 @@
 x = input("Enter Text: ")
-print(x.replace())
+x.replace(":)","🙂")
+x.replace(":(","🙁")
+print(x)
