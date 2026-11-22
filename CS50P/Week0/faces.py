@@ -1,2 +1,2 @@
 x = input("Enter Text: ")
-print
+print(x.replace())
